@@ -36,6 +36,8 @@
             e.preventDefault();
             e.stopPropagation();
 
+            var map = this._map;
+
             if (L.DomUtil.hasClass(this.link, 'leaflet-disabled')) {
                 L.DomUtil.removeClass(this.link, 'leaflet-disabled');
                 map.on('click', this._showPopup, this);

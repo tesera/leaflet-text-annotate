@@ -1,0 +1,27 @@
+{
+  "name": "leaflet-text-annotate",
+  "version": "1.0.0",
+  "description": "Simple text annotation control for leaflet.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesera/leaflet-text-annotate.git"
+  },
+  "keywords": [
+    "leaflet",
+    "leaflet-plugin",
+    "leaflet-control"
+  ],
+  "author": "Yves Richard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tesera/leaflet-text-annotate/issues"
+  },
+  "homepage": "https://github.com/tesera/leaflet-text-annotate#readme"
+}
